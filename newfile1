@@ -1,1 +1,43 @@
 First HTML page...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal site ⛄</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><img src="C:\Users\a664631\Documents\MyDocs\WebDev\HTML-Personal Site\pic.jpg" alt="Pooja's image" width="200" height="200"></td>
+            <td>
+                <h1>Pooja Ghosh</h1> 
+                <p><em><strong>Software Developer at Fidelity Investments</strong></em></p> 
+                <p><em>Lives in Bangalore</em></p> 
+                <p>Find more details @ <strong><a href="https://www.amazon.com/">The Amazon App</a></strong></p>
+                
+            </td>
+        </tr>
+
+
+
+    </table>
+    <table>
+        <tr>
+            <th>Work Year</th>
+            <th>Work Experience</th>
+        </tr>
+        <tr>
+            <td>2017-2020</td>
+            <td>Associate Software Engineer</td>
+        </tr>
+        <tr>
+            <td>2020-Current</td>
+            <td>DevOps Engineer</td>
+        </tr>
+
+    </table>
+    
+</body>
+</html>
