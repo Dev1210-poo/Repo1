@@ -6,4 +6,9 @@ documentation: mdn--> headings html mdn
 Boiler plate code: html+enter, html+tab, !+enter, !+tab
 HTML Comments: <!--Comment--> 
 HTML has a head and a body
+<em>: emphasize <i>: italics
+By default, the visual result is the same. However, the semantic meaning is different. 
+The <em> element represents stress emphasis of its contents, while the <i> element represents text 
+An example for <em> could be: "Just do it already!", or: "We had to do something about it". A person or software reading the text would pronounce the words in italics with an emphasis, using verbal stress.
+An example for <i> could be: "The Queen Mary sailed last night". Here, there is no added emphasis or importance on the word "Queen Mary". It is merely indicated that the object in question is not a queen named Mary, but a ship named Queen Mary.
 Table also have a head and a body
